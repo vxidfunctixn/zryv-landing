@@ -11,3 +11,5 @@
 .store:hover{color:#0b2320;filter:brightness(1.05)}
 
 .hero .download{margin-bottom:24px}.beta-signup{margin:0 0 56px}.beta-note{margin:0;color:var(--accent);font-size:13px;font-weight:600}.beta-description{margin:10px 0 18px;color:var(--muted);font-size:13px;line-height:1.6}.waitlist-button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:12px 20px;border:1px solid #526c65;border-radius:6px;background:transparent;color:var(--text);font:600 13px Arial,Helvetica,sans-serif}.waitlist-button{cursor:pointer}.waitlist-button:hover{color:var(--accent);border-color:var(--accent);background:#a4f4e408}.waitlist-note{margin:9px 0 0;color:var(--muted);font-size:11px}@media(max-width:700px){.beta-signup{margin-bottom:35px}}
+
+.footer-links{display:flex;flex-wrap:wrap;gap:16px 28px}.footer-links a{line-height:1.6}@media(max-width:700px){.footer-links{width:100%;flex-direction:column;gap:12px}}
